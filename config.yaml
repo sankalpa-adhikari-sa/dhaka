@@ -1,0 +1,8 @@
+path: C:\Users\sanka\Sankalpa_files\Datasets\dhaka\data
+train: C:\Users\sanka\Sankalpa_files\Datasets\dhaka\data\train
+val: C:\Users\sanka\Sankalpa_files\Datasets\dhaka\data\test
+
+# Classes
+
+names:
+  0: topi
